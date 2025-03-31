@@ -3,7 +3,7 @@ const app = express()
 const port = 8000
 
 app.get('/hello-world', (req, res) => {
-  res.send('<ชื่อนามสกุลภาษาอังกฤษ>-<รหัสนิสิต>') // Ratchaphon-Hinsui-6410450257
+  res.send('ธัชวิชย์-ทวีชัยการ-6510405571') // Ratchaphon-Hinsui-6410450257
 })
 
 app.listen(port, () => {
