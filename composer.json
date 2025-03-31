@@ -1,0 +1,15 @@
+{
+    "name": "iamth/lab3_docker",
+    "autoload": {
+        "psr-4": {
+            "Iamth\\Lab3Docker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NOOKX2",
+            "email": "thatchavit.t@ku.th"
+        }
+    ],
+    "require": {}
+}
